@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-31T12:09:36 GMT-04:00" name="Default suite" finished-at="2022-03-31T12:10:33 GMT-04:00" duration-ms="57122">
+    <groups>
+    </groups>
+    <test started-at="2022-03-31T12:09:36 GMT-04:00" name="Default test" finished-at="2022-03-31T12:10:33 GMT-04:00" duration-ms="57122">
+      <class name="Final.SwagLabs">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:Final.SwagLabs@4602c2a9]" started-at="2022-03-31T12:09:36 GMT-04:00" name="launchbrowser" finished-at="2022-03-31T12:09:39 GMT-04:00" duration-ms="3651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="Login()[pri:0, instance:Final.SwagLabs@4602c2a9]" started-at="2022-03-31T12:09:39 GMT-04:00" name="Login" finished-at="2022-03-31T12:09:44 GMT-04:00" duration-ms="4975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="dropdown()[pri:1, instance:Final.SwagLabs@4602c2a9]" started-at="2022-03-31T12:09:44 GMT-04:00" name="dropdown" finished-at="2022-03-31T12:09:46 GMT-04:00" duration-ms="2076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdown -->
+        <test-method signature="items()[pri:2, instance:Final.SwagLabs@4602c2a9]" started-at="2022-03-31T12:09:46 GMT-04:00" name="items" finished-at="2022-03-31T12:10:01 GMT-04:00" duration-ms="14707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- items -->
+        <test-method signature="addtocart()[pri:3, instance:Final.SwagLabs@4602c2a9]" started-at="2022-03-31T12:10:01 GMT-04:00" name="addtocart" finished-at="2022-03-31T12:10:03 GMT-04:00" duration-ms="2131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+        <test-method signature="removeitems()[pri:4, instance:Final.SwagLabs@4602c2a9]" started-at="2022-03-31T12:10:03 GMT-04:00" name="removeitems" finished-at="2022-03-31T12:10:18 GMT-04:00" duration-ms="14353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeitems -->
+        <test-method signature="continueshopping()[pri:5, instance:Final.SwagLabs@4602c2a9]" started-at="2022-03-31T12:10:18 GMT-04:00" name="continueshopping" finished-at="2022-03-31T12:10:22 GMT-04:00" duration-ms="4231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- continueshopping -->
+        <test-method signature="checkout()[pri:6, instance:Final.SwagLabs@4602c2a9]" started-at="2022-03-31T12:10:22 GMT-04:00" name="checkout" finished-at="2022-03-31T12:10:24 GMT-04:00" duration-ms="2115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method signature="Inbox()[pri:7, instance:Final.SwagLabs@4602c2a9]" started-at="2022-03-31T12:10:24 GMT-04:00" name="Inbox" finished-at="2022-03-31T12:10:26 GMT-04:00" duration-ms="2376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Inbox -->
+        <test-method signature="button()[pri:8, instance:Final.SwagLabs@4602c2a9]" started-at="2022-03-31T12:10:26 GMT-04:00" name="button" finished-at="2022-03-31T12:10:29 GMT-04:00" duration-ms="2205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- button -->
+        <test-method signature="finish()[pri:9, instance:Final.SwagLabs@4602c2a9]" started-at="2022-03-31T12:10:29 GMT-04:00" name="finish" finished-at="2022-03-31T12:10:31 GMT-04:00" duration-ms="2120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method signature="backtohome()[pri:10, instance:Final.SwagLabs@4602c2a9]" started-at="2022-03-31T12:10:31 GMT-04:00" name="backtohome" finished-at="2022-03-31T12:10:33 GMT-04:00" duration-ms="2110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backtohome -->
+      </class> <!-- Final.SwagLabs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
